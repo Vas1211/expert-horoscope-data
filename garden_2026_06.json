@@ -2,7 +2,7 @@
   "type": "garden",
   "year": 2026,
   "month": 6,
-  "generated": "2026-05-26T19:32:54.413505+03:00",
+  "generated": "2026-05-27T15:31:20.718479+03:00",
   "forbidden": [
     13,
     14,
@@ -197,6 +197,8 @@
     "full_moon": 1,
     "new_moon": 14,
     "waxing_start": 15,
-    "waning_start": 1
+    "waxing_end": 29,
+    "waning_start": 1,
+    "waning_end": 14
   }
 }
