@@ -2,7 +2,7 @@
   "type": "beauty",
   "year": 2026,
   "month": 6,
-  "generated": "2026-05-27T09:46:17.087953+03:00",
+  "generated": "2026-05-27T10:01:00.738842+03:00",
   "planetary": {
     "venus": {
       "sign": "Лев",
@@ -31,7 +31,7 @@
     "waning_start": 1,
     "waning_end": 14,
     "waxing_start": 15,
-    "waxing_end": 30
+    "waxing_end": 29
   },
   "best_days": [
     8,
