@@ -2,7 +2,7 @@
   "type": "beauty",
   "year": 2026,
   "month": 5,
-  "generated": "2026-05-27T09:46:16.391065+03:00",
+  "generated": "2026-05-27T10:00:59.978662+03:00",
   "planetary": {
     "venus": {
       "sign": "Близнецы",
@@ -30,8 +30,8 @@
     "new_moon": 16,
     "waning_start": 2,
     "waning_end": 16,
-    "waxing_start": 1,
-    "waxing_end": 31
+    "waxing_start": 17,
+    "waxing_end": 30
   },
   "best_days": [
     9,
