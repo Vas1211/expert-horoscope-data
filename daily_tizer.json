@@ -1,17 +1,17 @@
 {
-  "date": "2026-05-31",
-  "weekday": "воскресенье",
+  "date": "2026-06-01",
+  "weekday": "понедельник",
   "moon_sign": "Стрелец",
-  "moon_degree": 7.1,
-  "phase": "растущая",
-  "illumination": 99.9,
-  "lunar_day": "15-й",
-  "lunar_change": "22:05",
-  "tithi_num": 15,
-  "tithi_name": "Пурнима",
-  "tithi_quality": "полнолуние - кульминация, пик энергии",
+  "moon_degree": 19.0,
+  "phase": "убывающая",
+  "illumination": 99.5,
+  "lunar_day": "16-й",
+  "lunar_change": "23:02",
+  "tithi_num": 16,
+  "tithi_name": "Пратипада",
+  "tithi_quality": "начало убывания, первое осознание",
   "voc": "",
   "good_for": "расширение, путешествия, стратегия",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-05-31T06:01:58.709056+03:00"
+  "generated": "2026-06-01T06:01:48.649596+03:00"
 }
