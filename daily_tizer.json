@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-02",
-  "weekday": "вторник",
+  "date": "2026-06-03",
+  "weekday": "среда",
   "moon_sign": "Козерог",
-  "moon_degree": 0.8,
+  "moon_degree": 12.7,
   "phase": "убывающая",
-  "illumination": 97.2,
-  "lunar_day": "17-й",
-  "lunar_change": "23:43",
-  "tithi_num": 17,
-  "tithi_name": "Двитья",
-  "tithi_quality": "переосмысление, замедление",
+  "illumination": 93.2,
+  "lunar_day": "18-й",
+  "lunar_change": "",
+  "tithi_num": 18,
+  "tithi_name": "Тритья",
+  "tithi_quality": "переход, завершение старого",
   "voc": "",
   "good_for": "структура, карьера, долгосрочные планы",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-06-02T06:01:52.112155+03:00"
+  "generated": "2026-06-03T06:02:04.391915+03:00"
 }
