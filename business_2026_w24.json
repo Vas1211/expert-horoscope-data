@@ -1,0 +1,380 @@
+{
+  "type": "business",
+  "year": 2026,
+  "week": 24,
+  "week_label": "8-14 июня 2026",
+  "generated": "2026-06-09T14:14:40.599788+03:00",
+  "planets": {
+    "Меркурий": {
+      "sign": "Рак",
+      "degree": 13.1,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Венера": {
+      "sign": "Рак",
+      "degree": 26.4,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Марс": {
+      "sign": "Телец",
+      "degree": 16.7,
+      "dignity": "изгнание",
+      "retrograde": false
+    },
+    "Юпитер": {
+      "sign": "Рак",
+      "degree": 25.9,
+      "dignity": "экзальтация",
+      "retrograde": false
+    },
+    "Сатурн": {
+      "sign": "Овен",
+      "degree": 13.0,
+      "dignity": "падение",
+      "retrograde": false
+    }
+  },
+  "retrogrades": [],
+  "all_direct": true,
+  "best_days": [
+    {
+      "date": "14.06",
+      "wd": "воскресенье",
+      "score": 11
+    },
+    {
+      "date": "12.06",
+      "wd": "пятница",
+      "score": 6
+    },
+    {
+      "date": "13.06",
+      "wd": "суббота",
+      "score": 6
+    }
+  ],
+  "avoid_days": [
+    {
+      "date": "08.06",
+      "wd": "понедельник"
+    },
+    {
+      "date": "09.06",
+      "wd": "вторник"
+    }
+  ],
+  "days": [
+    {
+      "date": "08.06",
+      "weekday": "понедельник",
+      "wd_short": "пн",
+      "moon_sign": "Рыбы",
+      "day_ruler": "Луна",
+      "lunar": "23-й",
+      "tithi_num": 23,
+      "tithi_name": "Аштами",
+      "tithi_q": "последнее усилие, решимость",
+      "voc": "",
+      "aspects": "Луна секстиль Марс в 06:39; Луна секстиль Марс в 06:59; Луна секстиль Марс в 07:19",
+      "score": -10,
+      "scores": {
+        "negotiations": -2,
+        "finance": -2,
+        "presentations": -2,
+        "travel": 0,
+        "launch": -2,
+        "documents": -2
+      }
+    },
+    {
+      "date": "09.06",
+      "weekday": "вторник",
+      "wd_short": "вт",
+      "moon_sign": "Рыбы",
+      "day_ruler": "Марс",
+      "lunar": "24-й",
+      "tithi_num": 24,
+      "tithi_name": "Навами",
+      "tithi_q": "мудрость через опыт",
+      "voc": "с 03:38 до 11:33 МСК",
+      "aspects": "Луна секстиль Уран в 13:55; Луна секстиль Уран в 14:14; Луна секстиль Уран в 14:34",
+      "score": -16,
+      "scores": {
+        "negotiations": -3,
+        "finance": -3,
+        "presentations": -3,
+        "travel": -1,
+        "launch": -3,
+        "documents": -3
+      }
+    },
+    {
+      "date": "10.06",
+      "weekday": "среда",
+      "wd_short": "ср",
+      "moon_sign": "Овен",
+      "day_ruler": "Меркурий",
+      "lunar": "25-й",
+      "tithi_num": 25,
+      "tithi_name": "Дашами",
+      "tithi_q": "передача знания, наследие",
+      "voc": "",
+      "aspects": "Луна квадрат Меркурий в 08:18; Луна соединение Сатурн в 08:18; Луна квадрат Меркурий в 08:38",
+      "score": 5,
+      "scores": {
+        "negotiations": 0,
+        "finance": 0,
+        "presentations": 1,
+        "travel": 1,
+        "launch": 3,
+        "documents": 0
+      }
+    },
+    {
+      "date": "11.06",
+      "weekday": "четверг",
+      "wd_short": "чт",
+      "moon_sign": "Овен",
+      "day_ruler": "Юпитер",
+      "lunar": "26-й",
+      "tithi_num": 26,
+      "tithi_name": "Экадаши",
+      "tithi_q": "глубокая духовность, тишина",
+      "voc": "с 11:22 до 15:28 МСК",
+      "aspects": "Луна квадрат Юпитер в 06:39; Луна квадрат Юпитер в 06:59; Луна квадрат Юпитер в 07:19",
+      "score": -1,
+      "scores": {
+        "negotiations": -1,
+        "finance": -1,
+        "presentations": 0,
+        "travel": 0,
+        "launch": 2,
+        "documents": -1
+      }
+    },
+    {
+      "date": "12.06",
+      "weekday": "пятница",
+      "wd_short": "пт",
+      "moon_sign": "Телец",
+      "day_ruler": "Венера",
+      "lunar": "27-й",
+      "tithi_num": 27,
+      "tithi_name": "Двадаши",
+      "tithi_q": "прощение, отпускание",
+      "voc": "",
+      "aspects": "Луна секстиль Меркурий в 15:14; Луна секстиль Меркурий в 15:34; Луна секстиль Меркурий в 15:53",
+      "score": 6,
+      "scores": {
+        "negotiations": 1,
+        "finance": 3,
+        "presentations": 0,
+        "travel": 0,
+        "launch": 1,
+        "documents": 1
+      }
+    },
+    {
+      "date": "13.06",
+      "weekday": "суббота",
+      "wd_short": "сб",
+      "moon_sign": "Телец",
+      "day_ruler": "Сатурн",
+      "lunar": "28-й",
+      "tithi_num": 28,
+      "tithi_name": "Трайодаши",
+      "tithi_q": "предвкушение обновления",
+      "voc": "с 15:59 до 16:06 МСК",
+      "aspects": "Луна секстиль Юпитер в 08:38; Луна секстиль Юпитер в 08:58; Луна секстиль Юпитер в 09:17",
+      "score": 6,
+      "scores": {
+        "negotiations": 1,
+        "finance": 3,
+        "presentations": 0,
+        "travel": 0,
+        "launch": 1,
+        "documents": 1
+      }
+    },
+    {
+      "date": "14.06",
+      "weekday": "воскресенье",
+      "wd_short": "вс",
+      "moon_sign": "Близнецы",
+      "day_ruler": "Солнце",
+      "lunar": "29-й",
+      "tithi_num": 29,
+      "tithi_name": "Чатурдаши",
+      "tithi_q": "завершение, прощание с циклом",
+      "voc": "",
+      "aspects": "Луна секстиль Сатурн в 11:16; Луна секстиль Сатурн в 11:36; Луна секстиль Сатурн в 11:56",
+      "score": 11,
+      "scores": {
+        "negotiations": 3,
+        "finance": -2,
+        "presentations": 3,
+        "travel": 3,
+        "launch": 1,
+        "documents": 3
+      }
+    }
+  ],
+  "matrix": {
+    "negotiations": {
+      "title": "🤝 Переговоры и договоры",
+      "best": [
+        {
+          "date": "14.06",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "08.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "09.06",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "finance": {
+      "title": "💰 Финансы и инвестиции",
+      "best": [
+        {
+          "date": "12.06",
+          "wd": "пятница"
+        },
+        {
+          "date": "13.06",
+          "wd": "суббота"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "08.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "09.06",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "presentations": {
+      "title": "🎤 Презентации и выступления",
+      "best": [
+        {
+          "date": "14.06",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "08.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "09.06",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "travel": {
+      "title": "✈️ Командировки",
+      "best": [
+        {
+          "date": "14.06",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": []
+    },
+    "launch": {
+      "title": "🚀 Запуск проектов",
+      "best": [
+        {
+          "date": "10.06",
+          "wd": "среда"
+        },
+        {
+          "date": "11.06",
+          "wd": "четверг"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "08.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "09.06",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "documents": {
+      "title": "📋 Документы и аналитика",
+      "best": [
+        {
+          "date": "14.06",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "08.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "09.06",
+          "wd": "вторник"
+        }
+      ]
+    }
+  },
+  "numerology": {
+    "week_num": 6,
+    "is_master": false,
+    "days": {
+      "пн": {
+        "date": "08.06",
+        "number": 6,
+        "master": false
+      },
+      "вт": {
+        "date": "09.06",
+        "number": 7,
+        "master": false
+      },
+      "ср": {
+        "date": "10.06",
+        "number": 8,
+        "master": false
+      },
+      "чт": {
+        "date": "11.06",
+        "number": 9,
+        "master": false
+      },
+      "пт": {
+        "date": "12.06",
+        "number": 1,
+        "master": false
+      },
+      "сб": {
+        "date": "13.06",
+        "number": 2,
+        "master": false
+      },
+      "вс": {
+        "date": "14.06",
+        "number": 3,
+        "master": false
+      }
+    }
+  }
+}
