@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-12",
-  "weekday": "пятница",
+  "date": "2026-06-13",
+  "weekday": "суббота",
   "moon_sign": "Телец",
-  "moon_degree": 8.8,
+  "moon_degree": 23.6,
   "phase": "убывающая",
-  "illumination": 13.1,
-  "lunar_day": "27-й",
+  "illumination": 6.1,
+  "lunar_day": "28-й",
   "lunar_change": "",
-  "tithi_num": 27,
-  "tithi_name": "Двадаши",
-  "tithi_quality": "прощение, отпускание",
-  "voc": "",
+  "tithi_num": 28,
+  "tithi_name": "Трайодаши",
+  "tithi_quality": "предвкушение обновления",
+  "voc": "с 15:59 до 16:06 МСК - осторожно с новыми начинаниями",
   "good_for": "финансы, питательный уход",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-06-12T06:01:52.478436+03:00"
+  "generated": "2026-06-13T06:02:00.904210+03:00"
 }
