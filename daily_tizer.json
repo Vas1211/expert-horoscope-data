@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-14",
-  "weekday": "воскресенье",
+  "date": "2026-06-15",
+  "weekday": "понедельник",
   "moon_sign": "Близнецы",
-  "moon_degree": 8.8,
-  "phase": "убывающая",
-  "illumination": 1.5,
-  "lunar_day": "29-й",
+  "moon_degree": 24.1,
+  "phase": "растущая",
+  "illumination": 0.0,
+  "lunar_day": "1-й",
   "lunar_change": "",
-  "tithi_num": 29,
-  "tithi_name": "Чатурдаши",
-  "tithi_quality": "завершение, прощание с циклом",
-  "voc": "",
+  "tithi_num": 1,
+  "tithi_name": "Пратипада",
+  "tithi_quality": "новое начало, посев намерений",
+  "voc": "с 05:54 до 15:14 МСК - осторожно с новыми начинаниями",
   "good_for": "переговоры, коммуникации",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-06-14T06:02:00.881895+03:00"
+  "generated": "2026-06-15T06:02:00.484570+03:00"
 }
