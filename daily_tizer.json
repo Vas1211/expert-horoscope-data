@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-16",
-  "weekday": "вторник",
+  "date": "2026-06-17",
+  "weekday": "среда",
   "moon_sign": "Рак",
-  "moon_degree": 9.4,
+  "moon_degree": 24.4,
   "phase": "растущая",
-  "illumination": 1.6,
-  "lunar_day": "2-й",
+  "illumination": 6.0,
+  "lunar_day": "3-й",
   "lunar_change": "",
-  "tithi_num": 2,
-  "tithi_name": "Двитья",
-  "tithi_quality": "накопление, рост, терпение",
-  "voc": "",
+  "tithi_num": 3,
+  "tithi_name": "Тритья",
+  "tithi_quality": "действие, творческий импульс",
+  "voc": "с 10:40 до 15:05 МСК - осторожно с новыми начинаниями",
   "good_for": "семья, интуиция, питательный уход",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-06-16T06:02:06.531253+03:00"
+  "generated": "2026-06-17T06:01:47.439726+03:00"
 }
