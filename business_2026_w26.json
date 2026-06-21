@@ -1,0 +1,345 @@
+{
+  "type": "business",
+  "year": 2026,
+  "week": 26,
+  "week_label": "22-28 июня 2026",
+  "generated": "2026-06-21T15:02:21.677121+03:00",
+  "planets": {
+    "Меркурий": {
+      "sign": "Рак",
+      "degree": 25.2,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Венера": {
+      "sign": "Лев",
+      "degree": 12.6,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Марс": {
+      "sign": "Телец",
+      "degree": 26.8,
+      "dignity": "изгнание",
+      "retrograde": false
+    },
+    "Юпитер": {
+      "sign": "Рак",
+      "degree": 28.8,
+      "dignity": "экзальтация",
+      "retrograde": false
+    },
+    "Сатурн": {
+      "sign": "Овен",
+      "degree": 13.9,
+      "dignity": "падение",
+      "retrograde": false
+    }
+  },
+  "retrogrades": [],
+  "all_direct": true,
+  "best_days": [
+    {
+      "date": "22.06",
+      "wd": "понедельник",
+      "score": 11
+    },
+    {
+      "date": "23.06",
+      "wd": "вторник",
+      "score": 11
+    },
+    {
+      "date": "27.06",
+      "wd": "суббота",
+      "score": 7
+    }
+  ],
+  "avoid_days": [],
+  "days": [
+    {
+      "date": "22.06",
+      "weekday": "понедельник",
+      "wd_short": "пн",
+      "moon_sign": "Весы",
+      "day_ruler": "Луна",
+      "lunar": "7-й до 13:22, 8-й с 13:22",
+      "tithi_num": 8,
+      "tithi_name": "Аштами",
+      "tithi_q": "сила и кризис одновременно",
+      "voc": "",
+      "aspects": "Луна оппозиция Нептун в 06:39; Луна оппозиция Нептун в 06:59; Луна трин Плутон в 06:59",
+      "score": 11,
+      "scores": {
+        "negotiations": 3,
+        "finance": 0,
+        "presentations": 3,
+        "travel": 3,
+        "launch": 1,
+        "documents": 1
+      }
+    },
+    {
+      "date": "23.06",
+      "weekday": "вторник",
+      "wd_short": "вт",
+      "moon_sign": "Весы",
+      "day_ruler": "Марс",
+      "lunar": "8-й до 14:42, 9-й с 14:42",
+      "tithi_num": 9,
+      "tithi_name": "Навами",
+      "tithi_q": "трансформация через столкновение",
+      "voc": "",
+      "aspects": "Луна квадрат Меркурий в 21:10; Луна квадрат Меркурий в 21:30; Луна квадрат Меркурий в 21:50",
+      "score": 11,
+      "scores": {
+        "negotiations": 3,
+        "finance": 0,
+        "presentations": 3,
+        "travel": 3,
+        "launch": 1,
+        "documents": 1
+      }
+    },
+    {
+      "date": "24.06",
+      "weekday": "среда",
+      "wd_short": "ср",
+      "moon_sign": "Весы",
+      "day_ruler": "Меркурий",
+      "lunar": "9-й до 16:02, 10-й с 16:02",
+      "tithi_num": 10,
+      "tithi_name": "Дашами",
+      "tithi_q": "завершение цикла, подведение итогов",
+      "voc": "с 07:11 до 09:43 МСК",
+      "aspects": "Луна квадрат Юпитер в 06:39; Луна квадрат Юпитер в 06:59; Луна квадрат Юпитер в 07:11",
+      "score": 5,
+      "scores": {
+        "negotiations": 2,
+        "finance": -1,
+        "presentations": 2,
+        "travel": 2,
+        "launch": 0,
+        "documents": 0
+      }
+    },
+    {
+      "date": "25.06",
+      "weekday": "четверг",
+      "wd_short": "чт",
+      "moon_sign": "Скорпион",
+      "day_ruler": "Юпитер",
+      "lunar": "10-й до 17:22, 11-й с 17:22",
+      "tithi_num": 11,
+      "tithi_name": "Экадаши",
+      "tithi_q": "духовный подъём, очищение",
+      "voc": "",
+      "aspects": "Луна квадрат Венера в 10:17; Луна квадрат Венера в 10:37; Луна квадрат Венера в 10:56",
+      "score": -1,
+      "scores": {
+        "negotiations": -2,
+        "finance": 1,
+        "presentations": 0,
+        "travel": 0,
+        "launch": 0,
+        "documents": 0
+      }
+    },
+    {
+      "date": "26.06",
+      "weekday": "пятница",
+      "wd_short": "пт",
+      "moon_sign": "Скорпион",
+      "day_ruler": "Венера",
+      "lunar": "11-й до 18:42, 12-й с 18:42",
+      "tithi_num": 12,
+      "tithi_name": "Двадаши",
+      "tithi_q": "отдача, жертвенность, служение",
+      "voc": "с 20:10 до 21:40 МСК",
+      "aspects": "Луна трин Меркурий в 10:37; Луна трин Меркурий в 10:56; Луна трин Меркурий в 11:16",
+      "score": -1,
+      "scores": {
+        "negotiations": -2,
+        "finance": 1,
+        "presentations": 0,
+        "travel": 0,
+        "launch": 0,
+        "documents": 0
+      }
+    },
+    {
+      "date": "27.06",
+      "weekday": "суббота",
+      "wd_short": "сб",
+      "moon_sign": "Стрелец",
+      "day_ruler": "Сатурн",
+      "lunar": "12-й до 19:56, 13-й с 19:56",
+      "tithi_num": 13,
+      "tithi_name": "Трайодаши",
+      "tithi_q": "победа, удача, активность",
+      "voc": "",
+      "aspects": "Луна трин Нептун в 06:32; Луна секстиль Плутон в 06:39; Луна секстиль Плутон в 06:59",
+      "score": 7,
+      "scores": {
+        "negotiations": 0,
+        "finance": 0,
+        "presentations": 1,
+        "travel": 3,
+        "launch": 3,
+        "documents": 0
+      }
+    },
+    {
+      "date": "28.06",
+      "weekday": "воскресенье",
+      "wd_short": "вс",
+      "moon_sign": "Стрелец",
+      "day_ruler": "Солнце",
+      "lunar": "13-й до 20:58, 14-й с 20:58",
+      "tithi_num": 14,
+      "tithi_name": "Чатурдаши",
+      "tithi_q": "напряжение перед пиком",
+      "voc": "с 08:04 до 10:18 МСК",
+      "aspects": "Луна трин Венера в 06:39; Луна трин Венера в 06:59; Луна трин Венера в 07:19",
+      "score": 1,
+      "scores": {
+        "negotiations": -1,
+        "finance": -1,
+        "presentations": 0,
+        "travel": 2,
+        "launch": 2,
+        "documents": -1
+      }
+    }
+  ],
+  "matrix": {
+    "negotiations": {
+      "title": "🤝 Переговоры и договоры",
+      "best": [
+        {
+          "date": "22.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "23.06",
+          "wd": "вторник"
+        },
+        {
+          "date": "24.06",
+          "wd": "среда"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "25.06",
+          "wd": "четверг"
+        },
+        {
+          "date": "26.06",
+          "wd": "пятница"
+        }
+      ]
+    },
+    "finance": {
+      "title": "💰 Финансы и инвестиции",
+      "best": [],
+      "avoid": []
+    },
+    "presentations": {
+      "title": "🎤 Презентации и выступления",
+      "best": [
+        {
+          "date": "22.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "23.06",
+          "wd": "вторник"
+        },
+        {
+          "date": "24.06",
+          "wd": "среда"
+        }
+      ],
+      "avoid": []
+    },
+    "travel": {
+      "title": "✈️ Командировки",
+      "best": [
+        {
+          "date": "22.06",
+          "wd": "понедельник"
+        },
+        {
+          "date": "23.06",
+          "wd": "вторник"
+        },
+        {
+          "date": "27.06",
+          "wd": "суббота"
+        }
+      ],
+      "avoid": []
+    },
+    "launch": {
+      "title": "🚀 Запуск проектов",
+      "best": [
+        {
+          "date": "27.06",
+          "wd": "суббота"
+        },
+        {
+          "date": "28.06",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": []
+    },
+    "documents": {
+      "title": "📋 Документы и аналитика",
+      "best": [],
+      "avoid": []
+    }
+  },
+  "numerology": {
+    "week_num": 2,
+    "is_master": false,
+    "days": {
+      "пн": {
+        "date": "22.06",
+        "number": 2,
+        "master": false
+      },
+      "вт": {
+        "date": "23.06",
+        "number": 3,
+        "master": false
+      },
+      "ср": {
+        "date": "24.06",
+        "number": 22,
+        "master": true
+      },
+      "чт": {
+        "date": "25.06",
+        "number": 5,
+        "master": false
+      },
+      "пт": {
+        "date": "26.06",
+        "number": 6,
+        "master": false
+      },
+      "сб": {
+        "date": "27.06",
+        "number": 7,
+        "master": false
+      },
+      "вс": {
+        "date": "28.06",
+        "number": 8,
+        "master": false
+      }
+    }
+  }
+}
