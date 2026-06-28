@@ -1,17 +1,17 @@
 {
-  "date": "2026-06-27",
-  "weekday": "суббота",
+  "date": "2026-06-28",
+  "weekday": "воскресенье",
   "moon_sign": "Стрелец",
-  "moon_degree": 4.1,
+  "moon_degree": 16.0,
   "phase": "растущая",
-  "illumination": 92.7,
-  "lunar_day": "12-й",
-  "lunar_change": "19:56",
-  "tithi_num": 13,
-  "tithi_name": "Трайодаши",
-  "tithi_quality": "победа, удача, активность",
-  "voc": "",
+  "illumination": 96.8,
+  "lunar_day": "13-й",
+  "lunar_change": "20:58",
+  "tithi_num": 14,
+  "tithi_name": "Чатурдаши",
+  "tithi_quality": "напряжение перед пиком",
+  "voc": "с 08:04 до 10:18 МСК - осторожно с новыми начинаниями",
   "good_for": "расширение, путешествия, стратегия",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-06-27T06:01:51.204967+03:00"
+  "generated": "2026-06-28T06:01:58.234493+03:00"
 }
