@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-02",
-  "weekday": "четверг",
+  "date": "2026-07-03",
+  "weekday": "пятница",
   "moon_sign": "Водолей",
-  "moon_degree": 3.7,
+  "moon_degree": 15.9,
   "phase": "убывающая",
-  "illumination": 95.9,
-  "lunar_day": "17-й",
-  "lunar_change": "22:46",
-  "tithi_num": 17,
-  "tithi_name": "Двитья",
-  "tithi_quality": "переосмысление, замедление",
-  "voc": "",
+  "illumination": 91.1,
+  "lunar_day": "18-й",
+  "lunar_change": "22:56",
+  "tithi_num": 18,
+  "tithi_name": "Тритья",
+  "tithi_quality": "переход, завершение старого",
+  "voc": "с 20:27 до 09:30 МСК - осторожно с новыми начинаниями",
   "good_for": "инновации, команда",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-07-02T06:02:08.435638+03:00"
+  "generated": "2026-07-03T06:01:56.394605+03:00"
 }
