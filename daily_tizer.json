@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-09",
-  "weekday": "четверг",
+  "date": "2026-07-10",
+  "weekday": "пятница",
   "moon_sign": "Телец",
-  "moon_degree": 3.8,
+  "moon_degree": 18.0,
   "phase": "убывающая",
-  "illumination": 35.5,
-  "lunar_day": "24-й",
-  "lunar_change": "23:44",
-  "tithi_num": 24,
-  "tithi_name": "Навами",
-  "tithi_quality": "мудрость через опыт",
-  "voc": "",
+  "illumination": 24.9,
+  "lunar_day": "25-й",
+  "lunar_change": "",
+  "tithi_num": 26,
+  "tithi_name": "Экадаши",
+  "tithi_quality": "глубокая духовность, тишина",
+  "voc": "с 13:13 до 01:41 МСК - осторожно с новыми начинаниями",
   "good_for": "финансы, питательный уход",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-07-09T06:02:07.623632+03:00"
+  "generated": "2026-07-10T06:02:00.238106+03:00"
 }
