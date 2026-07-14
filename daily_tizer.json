@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-13",
-  "weekday": "понедельник",
+  "date": "2026-07-14",
+  "weekday": "вторник",
   "moon_sign": "Рак",
-  "moon_degree": 2.7,
+  "moon_degree": 17.8,
   "phase": "убывающая",
-  "illumination": 2.5,
-  "lunar_day": "28-й",
+  "illumination": 0.1,
+  "lunar_day": "29-й",
   "lunar_change": "",
-  "tithi_num": 29,
-  "tithi_name": "Чатурдаши",
-  "tithi_quality": "завершение, прощание с циклом",
-  "voc": "",
+  "tithi_num": 30,
+  "tithi_name": "Амавасья",
+  "tithi_quality": "новолуние - обнуление, тишина",
+  "voc": "с 12:43 до 01:35 МСК - осторожно с новыми начинаниями",
   "good_for": "семья, интуиция, питательный уход",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-07-13T06:01:56.739796+03:00"
+  "generated": "2026-07-14T06:01:54.604793+03:00"
 }
