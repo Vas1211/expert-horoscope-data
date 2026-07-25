@@ -1,0 +1,519 @@
+{
+  "type": "beauty",
+  "year": 2026,
+  "month": 8,
+  "generated": "2026-07-25T10:02:28.039610+03:00",
+  "planetary": {
+    "venus": {
+      "sign": "Весы",
+      "degree": 8.4,
+      "dignity": "домициль",
+      "retrograde": false
+    },
+    "mars": {
+      "sign": "Рак",
+      "degree": 2.7,
+      "dignity": "падение",
+      "retrograde": false
+    },
+    "mercury": {
+      "sign": "Лев",
+      "degree": 10.0,
+      "dignity": "",
+      "retrograde": false
+    },
+    "eclipses": [
+      27,
+      28
+    ],
+    "all_direct": true
+  },
+  "key_dates": {
+    "full_moon": 27,
+    "new_moon": 12,
+    "waning_start": 1,
+    "waning_end": 12,
+    "waxing_start": 13,
+    "waxing_end": 26
+  },
+  "best_days": [
+    1,
+    5,
+    6,
+    7,
+    11
+  ],
+  "taboo_days": [
+    2,
+    15,
+    16,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "procedures": {
+    "haircut_growth": {
+      "title": "✂️ Стрижка - на рост и укрепление",
+      "comment": "Растущая Луна в водных и земных знаках - волосы растут быстро и густо",
+      "best": [
+        18,
+        19,
+        23,
+        24
+      ],
+      "avoid": [
+        7,
+        8,
+        11,
+        12,
+        13,
+        25
+      ]
+    },
+    "haircut_slow": {
+      "title": "✂️ Стрижка - замедлить рост",
+      "comment": "Убывающая Луна в огненных и воздушных знаках - минимальный рост",
+      "best": [
+        3,
+        4,
+        7,
+        8,
+        11,
+        12,
+        30,
+        31
+      ],
+      "avoid": [
+        13,
+        25
+      ]
+    },
+    "coloring": {
+      "title": "🎨 Окрашивание волос",
+      "comment": "Телец и Весы дают стойкий равномерный цвет",
+      "best": [
+        5,
+        6,
+        9,
+        10,
+        11,
+        14,
+        15,
+        16,
+        17
+      ],
+      "avoid": [
+        1,
+        2,
+        12,
+        13,
+        18,
+        19,
+        25,
+        26
+      ]
+    },
+    "manicure": {
+      "title": "💅 Маникюр и педикюр",
+      "comment": "Близнецы - руки, Дева - детальность, Козерог - укрепление",
+      "best": [
+        5,
+        6,
+        7,
+        8,
+        14,
+        15,
+        16,
+        17,
+        23,
+        24
+      ],
+      "avoid": [
+        13,
+        25
+      ]
+    },
+    "masks_nutrition": {
+      "title": "🌸 Питательный и увлажняющий уход",
+      "comment": "Растущая Луна - кожа максимально впитывает активные вещества",
+      "best": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "avoid": [
+        13,
+        25
+      ]
+    },
+    "masks_cleansing": {
+      "title": "✨ Очищение, пилинги, скрабы",
+      "comment": "Убывающая Луна - глубокое очищение и выведение токсинов",
+      "best": [
+        3,
+        4,
+        30,
+        31
+      ],
+      "avoid": [
+        1,
+        2,
+        9,
+        10,
+        13,
+        25,
+        28,
+        29
+      ]
+    },
+    "injections": {
+      "title": "💉 Инъекционная косметология",
+      "comment": "Убывающая Луна снижает отёчность и риск гематом",
+      "best": [
+        5,
+        6
+      ],
+      "avoid": [
+        1,
+        2,
+        3,
+        4,
+        12,
+        13,
+        18,
+        19
+      ]
+    },
+    "hardware": {
+      "title": "🔬 Аппаратная косметология (лазер, RF)",
+      "comment": "Козерог и Дева - точность процедур, минимум побочных реакций",
+      "best": [
+        7,
+        8
+      ],
+      "avoid": [
+        1,
+        2,
+        9,
+        10,
+        12,
+        13,
+        18,
+        19
+      ]
+    },
+    "epilation": {
+      "title": "🌿 Эпиляция и депиляция",
+      "comment": "Убывающая Луна - волосы растут медленнее после процедуры",
+      "best": [
+        3,
+        4,
+        7,
+        8,
+        30,
+        31
+      ],
+      "avoid": [
+        1,
+        2,
+        9,
+        10,
+        13,
+        18,
+        19,
+        25
+      ]
+    },
+    "detox": {
+      "title": "🌱 Детокс и очищение организма",
+      "comment": "Убывающая Луна в водных знаках усиливает выведение",
+      "best": [
+        1,
+        2,
+        28,
+        29
+      ],
+      "avoid": []
+    },
+    "travel": {
+      "title": "✈️ Начало путешествий",
+      "comment": "Луна не в VoC - намерения реализуются, поездка идёт по плану",
+      "best": [
+        3,
+        4,
+        7,
+        8,
+        11,
+        12,
+        16,
+        17,
+        20,
+        21,
+        22,
+        30,
+        31
+      ],
+      "avoid": [
+        13,
+        25
+      ]
+    }
+  },
+  "numerology": [
+    {
+      "day": 1,
+      "wd": "сб",
+      "num": 1,
+      "master": false,
+      "tithi": 18,
+      "tithi_name": "Тритья"
+    },
+    {
+      "day": 2,
+      "wd": "вс",
+      "num": 2,
+      "master": false,
+      "tithi": 19,
+      "tithi_name": "Чатуртхи"
+    },
+    {
+      "day": 3,
+      "wd": "пн",
+      "num": 3,
+      "master": false,
+      "tithi": 20,
+      "tithi_name": "Панчами"
+    },
+    {
+      "day": 4,
+      "wd": "вт",
+      "num": 22,
+      "master": true,
+      "tithi": 21,
+      "tithi_name": "Шаштхи"
+    },
+    {
+      "day": 5,
+      "wd": "ср",
+      "num": 5,
+      "master": false,
+      "tithi": 22,
+      "tithi_name": "Саптами"
+    },
+    {
+      "day": 6,
+      "wd": "чт",
+      "num": 6,
+      "master": false,
+      "tithi": 23,
+      "tithi_name": "Аштами"
+    },
+    {
+      "day": 7,
+      "wd": "пт",
+      "num": 7,
+      "master": false,
+      "tithi": 24,
+      "tithi_name": "Навами"
+    },
+    {
+      "day": 8,
+      "wd": "сб",
+      "num": 8,
+      "master": false,
+      "tithi": 26,
+      "tithi_name": "Экадаши"
+    },
+    {
+      "day": 9,
+      "wd": "вс",
+      "num": 9,
+      "master": false,
+      "tithi": 27,
+      "tithi_name": "Двадаши"
+    },
+    {
+      "day": 10,
+      "wd": "пн",
+      "num": 1,
+      "master": false,
+      "tithi": 28,
+      "tithi_name": "Трайодаши"
+    },
+    {
+      "day": 11,
+      "wd": "вт",
+      "num": 2,
+      "master": false,
+      "tithi": 29,
+      "tithi_name": "Чатурдаши"
+    },
+    {
+      "day": 12,
+      "wd": "ср",
+      "num": 3,
+      "master": false,
+      "tithi": 30,
+      "tithi_name": "Амавасья"
+    },
+    {
+      "day": 13,
+      "wd": "чт",
+      "num": 22,
+      "master": true,
+      "tithi": 1,
+      "tithi_name": "Пратипада"
+    },
+    {
+      "day": 14,
+      "wd": "пт",
+      "num": 5,
+      "master": false,
+      "tithi": 2,
+      "tithi_name": "Двитья"
+    },
+    {
+      "day": 15,
+      "wd": "сб",
+      "num": 6,
+      "master": false,
+      "tithi": 3,
+      "tithi_name": "Тритья"
+    },
+    {
+      "day": 16,
+      "wd": "вс",
+      "num": 7,
+      "master": false,
+      "tithi": 4,
+      "tithi_name": "Чатуртхи"
+    },
+    {
+      "day": 17,
+      "wd": "пн",
+      "num": 8,
+      "master": false,
+      "tithi": 5,
+      "tithi_name": "Панчами"
+    },
+    {
+      "day": 18,
+      "wd": "вт",
+      "num": 9,
+      "master": false,
+      "tithi": 6,
+      "tithi_name": "Шаштхи"
+    },
+    {
+      "day": 19,
+      "wd": "ср",
+      "num": 1,
+      "master": false,
+      "tithi": 7,
+      "tithi_name": "Саптами"
+    },
+    {
+      "day": 20,
+      "wd": "чт",
+      "num": 2,
+      "master": false,
+      "tithi": 8,
+      "tithi_name": "Аштами"
+    },
+    {
+      "day": 21,
+      "wd": "пт",
+      "num": 3,
+      "master": false,
+      "tithi": 9,
+      "tithi_name": "Навами"
+    },
+    {
+      "day": 22,
+      "wd": "сб",
+      "num": 22,
+      "master": true,
+      "tithi": 10,
+      "tithi_name": "Дашами"
+    },
+    {
+      "day": 23,
+      "wd": "вс",
+      "num": 5,
+      "master": false,
+      "tithi": 11,
+      "tithi_name": "Экадаши"
+    },
+    {
+      "day": 24,
+      "wd": "пн",
+      "num": 6,
+      "master": false,
+      "tithi": 12,
+      "tithi_name": "Двадаши"
+    },
+    {
+      "day": 25,
+      "wd": "вт",
+      "num": 7,
+      "master": false,
+      "tithi": 13,
+      "tithi_name": "Трайодаши"
+    },
+    {
+      "day": 26,
+      "wd": "ср",
+      "num": 8,
+      "master": false,
+      "tithi": 14,
+      "tithi_name": "Чатурдаши"
+    },
+    {
+      "day": 27,
+      "wd": "чт",
+      "num": 9,
+      "master": false,
+      "tithi": 15,
+      "tithi_name": "Пурнима"
+    },
+    {
+      "day": 28,
+      "wd": "пт",
+      "num": 1,
+      "master": false,
+      "tithi": 16,
+      "tithi_name": "Пратипада"
+    },
+    {
+      "day": 29,
+      "wd": "сб",
+      "num": 11,
+      "master": true,
+      "tithi": 17,
+      "tithi_name": "Двитья"
+    },
+    {
+      "day": 30,
+      "wd": "вс",
+      "num": 3,
+      "master": false,
+      "tithi": 18,
+      "tithi_name": "Тритья"
+    },
+    {
+      "day": 31,
+      "wd": "пн",
+      "num": 22,
+      "master": true,
+      "tithi": 19,
+      "tithi_name": "Чатуртхи"
+    }
+  ],
+  "days_count": 31
+}
