@@ -1,17 +1,17 @@
 {
-  "date": "2026-07-24",
-  "weekday": "пятница",
+  "date": "2026-07-25",
+  "weekday": "суббота",
   "moon_sign": "Стрелец",
-  "moon_degree": 0.9,
+  "moon_degree": 12.8,
   "phase": "растущая",
-  "illumination": 74.8,
-  "lunar_day": "10-й",
-  "lunar_change": "17:45",
-  "tithi_num": 10,
-  "tithi_name": "Дашами",
-  "tithi_quality": "завершение цикла, подведение итогов",
-  "voc": "",
+  "illumination": 82.5,
+  "lunar_day": "11-й",
+  "lunar_change": "18:52",
+  "tithi_num": 11,
+  "tithi_name": "Экадаши",
+  "tithi_quality": "духовный подъём, очищение",
+  "voc": "с 17:58 до 16:44 МСК - осторожно с новыми начинаниями",
   "good_for": "расширение, путешествия, стратегия",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-07-24T06:02:08.909589+03:00"
+  "generated": "2026-07-25T06:02:07.280892+03:00"
 }
