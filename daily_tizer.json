@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-05",
-  "weekday": "среда",
+  "date": "2026-08-06",
+  "weekday": "четверг",
   "moon_sign": "Телец",
-  "moon_degree": 0.2,
+  "moon_degree": 14.0,
   "phase": "убывающая",
-  "illumination": 60.8,
-  "lunar_day": "22-й",
-  "lunar_change": "21:50",
-  "tithi_num": 22,
-  "tithi_name": "Саптами",
-  "tithi_quality": "освобождение от лишнего",
+  "illumination": 49.7,
+  "lunar_day": "23-й",
+  "lunar_change": "22:07",
+  "tithi_num": 23,
+  "tithi_name": "Аштами",
+  "tithi_quality": "последнее усилие, решимость",
   "voc": "",
   "good_for": "финансы, питательный уход",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-08-05T06:01:09.749042+03:00"
+  "generated": "2026-08-06T06:01:11.290066+03:00"
 }
