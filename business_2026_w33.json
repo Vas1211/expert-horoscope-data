@@ -1,0 +1,400 @@
+{
+  "type": "business",
+  "year": 2026,
+  "week": 33,
+  "week_label": "10-16 августа 2026",
+  "generated": "2026-08-09T15:01:28.979662+03:00",
+  "planets": {
+    "Меркурий": {
+      "sign": "Лев",
+      "degree": 4.5,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Венера": {
+      "sign": "Весы",
+      "degree": 5.5,
+      "dignity": "домициль",
+      "retrograde": false
+    },
+    "Марс": {
+      "sign": "Рак",
+      "degree": 0.7,
+      "dignity": "падение",
+      "retrograde": false
+    },
+    "Юпитер": {
+      "sign": "Лев",
+      "degree": 9.5,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Сатурн": {
+      "sign": "Овен",
+      "degree": 14.5,
+      "dignity": "падение",
+      "retrograde": false
+    }
+  },
+  "retrogrades": [],
+  "all_direct": true,
+  "best_days": [
+    {
+      "date": "16.08",
+      "wd": "воскресенье",
+      "score": 11
+    },
+    {
+      "date": "12.08",
+      "wd": "среда",
+      "score": 5
+    },
+    {
+      "date": "14.08",
+      "wd": "пятница",
+      "score": 3
+    }
+  ],
+  "avoid_days": [
+    {
+      "date": "10.08",
+      "wd": "понедельник"
+    },
+    {
+      "date": "11.08",
+      "wd": "вторник"
+    }
+  ],
+  "days": [
+    {
+      "date": "10.08",
+      "weekday": "понедельник",
+      "wd_short": "пн",
+      "moon_sign": "Рак",
+      "day_ruler": "Луна",
+      "lunar": "27-й",
+      "tithi_num": 28,
+      "tithi_name": "Трайодаши",
+      "tithi_q": "предвкушение обновления",
+      "voc": "с 10:30 до 11:38 МСК",
+      "aspects": "Луна квадрат Сатурн в 08:38; Луна квадрат Сатурн в 08:58; Луна квадрат Сатурн в 09:17",
+      "score": -16,
+      "scores": {
+        "negotiations": -3,
+        "finance": -1,
+        "presentations": -3,
+        "travel": -3,
+        "launch": -3,
+        "documents": -3
+      }
+    },
+    {
+      "date": "11.08",
+      "weekday": "вторник",
+      "wd_short": "вт",
+      "moon_sign": "Рак",
+      "day_ruler": "Марс",
+      "lunar": "28-й",
+      "tithi_num": 29,
+      "tithi_name": "Чатурдаши",
+      "tithi_q": "завершение, прощание с циклом",
+      "voc": "с 10:30 до 11:38 МСК",
+      "aspects": "Луна соединение Меркурий в 14:14; Луна соединение Меркурий в 14:34; Луна соединение Меркурий в 14:54",
+      "score": -16,
+      "scores": {
+        "negotiations": -3,
+        "finance": -1,
+        "presentations": -3,
+        "travel": -3,
+        "launch": -3,
+        "documents": -3
+      }
+    },
+    {
+      "date": "12.08",
+      "weekday": "среда",
+      "wd_short": "ср",
+      "moon_sign": "Лев",
+      "day_ruler": "Меркурий",
+      "lunar": "29-й",
+      "tithi_num": 30,
+      "tithi_name": "Амавасья",
+      "tithi_q": "новолуние - обнуление, тишина",
+      "voc": "с 20:36 до 13:18 МСК",
+      "aspects": "Луна трин Сатурн в 09:37; Луна трин Сатурн в 09:57; Луна трин Сатурн в 10:17",
+      "score": 5,
+      "scores": {
+        "negotiations": 0,
+        "finance": 0,
+        "presentations": 3,
+        "travel": 1,
+        "launch": 3,
+        "documents": -2
+      }
+    },
+    {
+      "date": "13.08",
+      "weekday": "четверг",
+      "wd_short": "чт",
+      "moon_sign": "Лев",
+      "day_ruler": "Юпитер",
+      "lunar": "2-й",
+      "tithi_num": 1,
+      "tithi_name": "Пратипада",
+      "tithi_q": "новое начало, посев намерений",
+      "voc": "с 20:36 до 13:18 МСК",
+      "aspects": "Луна секстиль Марс в 13:35; Луна секстиль Марс в 13:55; Луна секстиль Марс в 14:14",
+      "score": -1,
+      "scores": {
+        "negotiations": -1,
+        "finance": -1,
+        "presentations": 2,
+        "travel": 0,
+        "launch": 2,
+        "documents": -3
+      }
+    },
+    {
+      "date": "14.08",
+      "weekday": "пятница",
+      "wd_short": "пт",
+      "moon_sign": "Дева",
+      "day_ruler": "Венера",
+      "lunar": "2-й до 07:06, 3-й с 07:06",
+      "tithi_num": 2,
+      "tithi_name": "Двитья",
+      "tithi_q": "накопление, рост, терпение",
+      "voc": "с 22:23 до 17:19 МСК",
+      "aspects": "",
+      "score": 3,
+      "scores": {
+        "negotiations": 2,
+        "finance": 2,
+        "presentations": -1,
+        "travel": -1,
+        "launch": -1,
+        "documents": 2
+      }
+    },
+    {
+      "date": "15.08",
+      "weekday": "суббота",
+      "wd_short": "сб",
+      "moon_sign": "Дева",
+      "day_ruler": "Сатурн",
+      "lunar": "3-й до 08:35, 4-й с 08:35",
+      "tithi_num": 3,
+      "tithi_name": "Тритья",
+      "tithi_q": "действие, творческий импульс",
+      "voc": "с 22:23 до 17:19 МСК",
+      "aspects": "Луна квадрат Марс в 20:11; Луна квадрат Марс в 20:31; Луна квадрат Марс в 20:50",
+      "score": 3,
+      "scores": {
+        "negotiations": 2,
+        "finance": 2,
+        "presentations": -1,
+        "travel": -1,
+        "launch": -1,
+        "documents": 2
+      }
+    },
+    {
+      "date": "16.08",
+      "weekday": "воскресенье",
+      "wd_short": "вс",
+      "moon_sign": "Весы",
+      "day_ruler": "Солнце",
+      "lunar": "4-й до 10:00, 5-й с 10:00",
+      "tithi_num": 4,
+      "tithi_name": "Чатуртхи",
+      "tithi_q": "препятствия как точки роста",
+      "voc": "",
+      "aspects": "Луна соединение Венера в 07:38; Луна соединение Венера в 07:58; Луна соединение Венера в 08:18",
+      "score": 11,
+      "scores": {
+        "negotiations": 3,
+        "finance": 0,
+        "presentations": 3,
+        "travel": 3,
+        "launch": 1,
+        "documents": 1
+      }
+    }
+  ],
+  "matrix": {
+    "negotiations": {
+      "title": "🤝 Переговоры и договоры",
+      "best": [
+        {
+          "date": "16.08",
+          "wd": "воскресенье"
+        },
+        {
+          "date": "14.08",
+          "wd": "пятница"
+        },
+        {
+          "date": "15.08",
+          "wd": "суббота"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "10.08",
+          "wd": "понедельник"
+        },
+        {
+          "date": "11.08",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "finance": {
+      "title": "💰 Финансы и инвестиции",
+      "best": [
+        {
+          "date": "14.08",
+          "wd": "пятница"
+        },
+        {
+          "date": "15.08",
+          "wd": "суббота"
+        }
+      ],
+      "avoid": []
+    },
+    "presentations": {
+      "title": "🎤 Презентации и выступления",
+      "best": [
+        {
+          "date": "12.08",
+          "wd": "среда"
+        },
+        {
+          "date": "16.08",
+          "wd": "воскресенье"
+        },
+        {
+          "date": "13.08",
+          "wd": "четверг"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "10.08",
+          "wd": "понедельник"
+        },
+        {
+          "date": "11.08",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "travel": {
+      "title": "✈️ Командировки",
+      "best": [
+        {
+          "date": "16.08",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "10.08",
+          "wd": "понедельник"
+        },
+        {
+          "date": "11.08",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "launch": {
+      "title": "🚀 Запуск проектов",
+      "best": [
+        {
+          "date": "12.08",
+          "wd": "среда"
+        },
+        {
+          "date": "13.08",
+          "wd": "четверг"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "10.08",
+          "wd": "понедельник"
+        },
+        {
+          "date": "11.08",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "documents": {
+      "title": "📋 Документы и аналитика",
+      "best": [
+        {
+          "date": "14.08",
+          "wd": "пятница"
+        },
+        {
+          "date": "15.08",
+          "wd": "суббота"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "10.08",
+          "wd": "понедельник"
+        },
+        {
+          "date": "11.08",
+          "wd": "вторник"
+        }
+      ]
+    }
+  },
+  "numerology": {
+    "week_num": 1,
+    "is_master": false,
+    "days": {
+      "пн": {
+        "date": "10.08",
+        "number": 1,
+        "master": false
+      },
+      "вт": {
+        "date": "11.08",
+        "number": 2,
+        "master": false
+      },
+      "ср": {
+        "date": "12.08",
+        "number": 3,
+        "master": false
+      },
+      "чт": {
+        "date": "13.08",
+        "number": 22,
+        "master": true
+      },
+      "пт": {
+        "date": "14.08",
+        "number": 5,
+        "master": false
+      },
+      "сб": {
+        "date": "15.08",
+        "number": 6,
+        "master": false
+      },
+      "вс": {
+        "date": "16.08",
+        "number": 7,
+        "master": false
+      }
+    }
+  }
+}
