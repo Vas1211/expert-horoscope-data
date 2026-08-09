@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-08",
-  "weekday": "суббота",
+  "date": "2026-08-09",
+  "weekday": "воскресенье",
   "moon_sign": "Близнецы",
-  "moon_degree": 12.5,
+  "moon_degree": 27.1,
   "phase": "убывающая",
-  "illumination": 27.4,
-  "lunar_day": "25-й",
-  "lunar_change": "23:24",
-  "tithi_num": 25,
-  "tithi_name": "Дашами",
-  "tithi_quality": "передача знания, наследие",
-  "voc": "",
+  "illumination": 17.5,
+  "lunar_day": "26-й",
+  "lunar_change": "",
+  "tithi_num": 26,
+  "tithi_name": "Экадаши",
+  "tithi_quality": "глубокая духовность, тишина",
+  "voc": "с 08:27 до 10:45 МСК - осторожно с новыми начинаниями",
   "good_for": "переговоры, коммуникации",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-08-08T06:01:11.456505+03:00"
+  "generated": "2026-08-09T06:01:06.205817+03:00"
 }
