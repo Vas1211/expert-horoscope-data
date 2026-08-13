@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-12",
-  "weekday": "среда",
+  "date": "2026-08-13",
+  "weekday": "четверг",
   "moon_sign": "Лев",
-  "moon_degree": 11.2,
-  "phase": "убывающая",
-  "illumination": 0.5,
-  "lunar_day": "29-й",
+  "moon_degree": 25.7,
+  "phase": "растущая",
+  "illumination": 0.2,
+  "lunar_day": "2-й",
   "lunar_change": "",
-  "tithi_num": 30,
-  "tithi_name": "Амавасья",
-  "tithi_quality": "новолуние - обнуление, тишина",
+  "tithi_num": 1,
+  "tithi_name": "Пратипада",
+  "tithi_quality": "новое начало, посев намерений",
   "voc": "с 20:36 до 13:18 МСК - осторожно с новыми начинаниями",
   "good_for": "творчество, публичность, лидерство",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-08-12T06:01:10.970830+03:00"
+  "generated": "2026-08-13T06:01:10.842901+03:00"
 }
