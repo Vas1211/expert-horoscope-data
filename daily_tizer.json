@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-28",
-  "weekday": "пятница",
+  "date": "2026-08-29",
+  "weekday": "суббота",
   "moon_sign": "Рыбы",
-  "moon_degree": 4.2,
-  "phase": "растущая",
-  "illumination": 100.0,
-  "lunar_day": "16-й",
-  "lunar_change": "19:29",
-  "tithi_num": 15,
-  "tithi_name": "Пурнима",
-  "tithi_quality": "полнолуние - кульминация, пик энергии",
+  "moon_degree": 17.1,
+  "phase": "убывающая",
+  "illumination": 99.0,
+  "lunar_day": "17-й",
+  "lunar_change": "19:36",
+  "tithi_num": 16,
+  "tithi_name": "Пратипада",
+  "tithi_quality": "начало убывания, первое осознание",
   "voc": "с 19:14 до 05:37 МСК - осторожно с новыми начинаниями",
   "good_for": "интуиция, творчество, духовные практики",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-08-28T06:01:06.935525+03:00"
+  "generated": "2026-08-29T06:01:09.499269+03:00"
 }
