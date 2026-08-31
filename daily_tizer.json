@@ -1,17 +1,17 @@
 {
-  "date": "2026-08-30",
-  "weekday": "воскресенье",
+  "date": "2026-08-31",
+  "weekday": "понедельник",
   "moon_sign": "Овен",
-  "moon_degree": 0.2,
+  "moon_degree": 13.6,
   "phase": "убывающая",
-  "illumination": 95.9,
-  "lunar_day": "18-й",
-  "lunar_change": "19:42",
-  "tithi_num": 17,
-  "tithi_name": "Двитья",
-  "tithi_quality": "переосмысление, замедление",
-  "voc": "",
+  "illumination": 90.5,
+  "lunar_day": "19-й",
+  "lunar_change": "19:49",
+  "tithi_num": 18,
+  "tithi_name": "Тритья",
+  "tithi_quality": "переход, завершение старого",
+  "voc": "с 22:47 до 11:01 МСК - осторожно с новыми начинаниями",
   "good_for": "инициативы, старт, решительные действия",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-08-30T06:01:06.924408+03:00"
+  "generated": "2026-08-31T06:01:02.339871+03:00"
 }
