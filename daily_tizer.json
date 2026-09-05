@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-04",
-  "weekday": "пятница",
+  "date": "2026-09-05",
+  "weekday": "суббота",
   "moon_sign": "Близнецы",
-  "moon_degree": 8.9,
+  "moon_degree": 23.2,
   "phase": "убывающая",
-  "illumination": 52.3,
-  "lunar_day": "23-й",
-  "lunar_change": "21:17",
-  "tithi_num": 23,
-  "tithi_name": "Аштами",
-  "tithi_quality": "последнее усилие, решимость",
-  "voc": "",
+  "illumination": 40.8,
+  "lunar_day": "24-й",
+  "lunar_change": "22:21",
+  "tithi_num": 24,
+  "tithi_name": "Навами",
+  "tithi_quality": "мудрость через опыт",
+  "voc": "с 11:39 до 17:30 МСК - осторожно с новыми начинаниями",
   "good_for": "переговоры, коммуникации",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-09-04T06:01:07.019430+03:00"
+  "generated": "2026-09-05T06:01:04.890141+03:00"
 }
