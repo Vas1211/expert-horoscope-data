@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-10",
-  "weekday": "четверг",
+  "date": "2026-09-11",
+  "weekday": "пятница",
   "moon_sign": "Дева",
-  "moon_degree": 4.3,
+  "moon_degree": 18.2,
   "phase": "убывающая",
-  "illumination": 1.3,
+  "illumination": 0.0,
   "lunar_day": "29-й",
-  "lunar_change": "",
-  "tithi_num": 29,
-  "tithi_name": "Чатурдаши",
-  "tithi_quality": "завершение, прощание с циклом",
-  "voc": "",
+  "lunar_change": "06:05",
+  "tithi_num": 30,
+  "tithi_name": "Амавасья",
+  "tithi_quality": "новолуние - обнуление, тишина",
+  "voc": "с 08:52 до 02:51 МСК - осторожно с новыми начинаниями",
   "good_for": "аналитика, документы, детали",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-09-10T06:01:05.362644+03:00"
+  "generated": "2026-09-11T06:01:03.712815+03:00"
 }
