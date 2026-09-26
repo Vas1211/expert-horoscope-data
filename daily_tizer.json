@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-25",
-  "weekday": "пятница",
+  "date": "2026-09-26",
+  "weekday": "суббота",
   "moon_sign": "Рыбы",
-  "moon_degree": 12.7,
+  "moon_degree": 25.9,
   "phase": "растущая",
-  "illumination": 97.2,
-  "lunar_day": "14-й",
-  "lunar_change": "17:45",
-  "tithi_num": 14,
-  "tithi_name": "Чатурдаши",
-  "tithi_quality": "напряжение перед пиком",
-  "voc": "",
+  "illumination": 99.6,
+  "lunar_day": "15-й",
+  "lunar_change": "17:52",
+  "tithi_num": 15,
+  "tithi_name": "Пурнима",
+  "tithi_quality": "полнолуние - кульминация, пик энергии",
+  "voc": "с 11:31 до 13:23 МСК - осторожно с новыми начинаниями",
   "good_for": "интуиция, творчество, духовные практики",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-09-25T06:01:08.038499+03:00"
+  "generated": "2026-09-26T06:01:04.921539+03:00"
 }
