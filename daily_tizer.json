@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-29",
-  "weekday": "вторник",
+  "date": "2026-09-30",
+  "weekday": "среда",
   "moon_sign": "Телец",
-  "moon_degree": 7.2,
+  "moon_degree": 21.4,
   "phase": "убывающая",
-  "illumination": 92.8,
-  "lunar_day": "18-й",
-  "lunar_change": "18:22",
-  "tithi_num": 18,
-  "tithi_name": "Тритья",
-  "tithi_quality": "переход, завершение старого",
-  "voc": "",
+  "illumination": 85.7,
+  "lunar_day": "19-й",
+  "lunar_change": "18:43",
+  "tithi_num": 19,
+  "tithi_name": "Чатуртхи",
+  "tithi_quality": "очищение через сопротивление",
+  "voc": "с 02:36 до 20:26 МСК - осторожно с новыми начинаниями",
   "good_for": "финансы, питательный уход",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-09-29T06:01:02.598906+03:00"
+  "generated": "2026-09-30T06:00:55.201951+03:00"
 }
