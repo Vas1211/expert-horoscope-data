@@ -1,0 +1,373 @@
+{
+  "type": "business",
+  "year": 2026,
+  "week": 42,
+  "week_label": "12-18 октября 2026",
+  "generated": "2026-10-11T15:01:17.848210+03:00",
+  "planets": {
+    "Меркурий": {
+      "sign": "Скорпион",
+      "degree": 15.9,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Венера": {
+      "sign": "Скорпион",
+      "degree": 6.1,
+      "dignity": "изгнание",
+      "retrograde": false
+    },
+    "Марс": {
+      "sign": "Лев",
+      "degree": 9.3,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Юпитер": {
+      "sign": "Лев",
+      "degree": 21.8,
+      "dignity": "",
+      "retrograde": false
+    },
+    "Сатурн": {
+      "sign": "Овен",
+      "degree": 10.5,
+      "dignity": "падение",
+      "retrograde": false
+    }
+  },
+  "retrogrades": [],
+  "all_direct": true,
+  "best_days": [
+    {
+      "date": "14.10",
+      "wd": "среда",
+      "score": 7
+    },
+    {
+      "date": "15.10",
+      "wd": "четверг",
+      "score": 7
+    },
+    {
+      "date": "16.10",
+      "wd": "пятница",
+      "score": 1
+    }
+  ],
+  "avoid_days": [
+    {
+      "date": "13.10",
+      "wd": "вторник"
+    }
+  ],
+  "days": [
+    {
+      "date": "12.10",
+      "weekday": "понедельник",
+      "wd_short": "пн",
+      "moon_sign": "Скорпион",
+      "day_ruler": "Луна",
+      "lunar": "2-й до 09:21, 3-й с 09:21",
+      "tithi_num": 2,
+      "tithi_name": "Двитья",
+      "tithi_q": "накопление, рост, терпение",
+      "voc": "",
+      "aspects": "Луна соединение Венера в 06:39; Луна соединение Венера в 06:59; Луна соединение Венера в 07:19",
+      "score": -1,
+      "scores": {
+        "negotiations": -2,
+        "finance": 1,
+        "presentations": 0,
+        "travel": 0,
+        "launch": 0,
+        "documents": 0
+      }
+    },
+    {
+      "date": "13.10",
+      "weekday": "вторник",
+      "wd_short": "вт",
+      "moon_sign": "Скорпион",
+      "day_ruler": "Марс",
+      "lunar": "3-й до 10:45, 4-й с 10:45",
+      "tithi_num": 3,
+      "tithi_name": "Тритья",
+      "tithi_q": "действие, творческий импульс",
+      "voc": "с 11:45 до 03:59 МСК",
+      "aspects": "Луна квадрат Юпитер в 09:17; Луна квадрат Юпитер в 09:37; Луна квадрат Юпитер в 09:57",
+      "score": -7,
+      "scores": {
+        "negotiations": -3,
+        "finance": 0,
+        "presentations": -1,
+        "travel": -1,
+        "launch": -1,
+        "documents": -1
+      }
+    },
+    {
+      "date": "14.10",
+      "weekday": "среда",
+      "wd_short": "ср",
+      "moon_sign": "Стрелец",
+      "day_ruler": "Меркурий",
+      "lunar": "4-й до 12:05, 5-й с 12:05",
+      "tithi_num": 4,
+      "tithi_name": "Чатуртхи",
+      "tithi_q": "препятствия как точки роста",
+      "voc": "",
+      "aspects": "Луна трин Нептун в 06:39; Луна трин Нептун в 06:59; Луна трин Нептун в 07:19",
+      "score": 7,
+      "scores": {
+        "negotiations": 0,
+        "finance": 0,
+        "presentations": 1,
+        "travel": 3,
+        "launch": 3,
+        "documents": 0
+      }
+    },
+    {
+      "date": "15.10",
+      "weekday": "четверг",
+      "wd_short": "чт",
+      "moon_sign": "Стрелец",
+      "day_ruler": "Юпитер",
+      "lunar": "5-й до 13:15, 6-й с 13:15",
+      "tithi_num": 5,
+      "tithi_name": "Панчами",
+      "tithi_q": "расширение, обучение, связи",
+      "voc": "",
+      "aspects": "Луна трин Юпитер в 21:30; Луна трин Юпитер в 21:50; Луна секстиль Солнце в 22:10",
+      "score": 7,
+      "scores": {
+        "negotiations": 0,
+        "finance": 0,
+        "presentations": 1,
+        "travel": 3,
+        "launch": 3,
+        "documents": 0
+      }
+    },
+    {
+      "date": "16.10",
+      "weekday": "пятница",
+      "wd_short": "пт",
+      "moon_sign": "Стрелец",
+      "day_ruler": "Венера",
+      "lunar": "6-й до 14:10, 7-й с 14:10",
+      "tithi_num": 6,
+      "tithi_name": "Шаштхи",
+      "tithi_q": "гармония, красота, равновесие",
+      "voc": "с 00:55 до 15:57 МСК",
+      "aspects": "Луна квадрат Нептун в 18:12; Луна квадрат Нептун в 18:32; Луна квадрат Нептун в 18:52",
+      "score": 1,
+      "scores": {
+        "negotiations": -1,
+        "finance": -1,
+        "presentations": 0,
+        "travel": 2,
+        "launch": 2,
+        "documents": -1
+      }
+    },
+    {
+      "date": "17.10",
+      "weekday": "суббота",
+      "wd_short": "сб",
+      "moon_sign": "Козерог",
+      "day_ruler": "Сатурн",
+      "lunar": "7-й до 14:47, 8-й с 14:47",
+      "tithi_num": 7,
+      "tithi_name": "Саптами",
+      "tithi_q": "движение, скорость, изменения",
+      "voc": "",
+      "aspects": "Луна квадрат Сатурн в 10:17; Луна квадрат Сатурн в 10:37; Луна квадрат Сатурн в 10:56",
+      "score": 1,
+      "scores": {
+        "negotiations": 1,
+        "finance": 3,
+        "presentations": -2,
+        "travel": -2,
+        "launch": -2,
+        "documents": 3
+      }
+    },
+    {
+      "date": "18.10",
+      "weekday": "воскресенье",
+      "wd_short": "вс",
+      "moon_sign": "Козерог",
+      "day_ruler": "Солнце",
+      "lunar": "8-й до 15:11, 9-й с 15:11",
+      "tithi_num": 8,
+      "tithi_name": "Аштами",
+      "tithi_q": "сила и кризис одновременно",
+      "voc": "с 19:12 до 04:39 МСК",
+      "aspects": "Луна квадрат Солнце в 16:33; Луна квадрат Солнце в 16:53; Луна квадрат Солнце в 17:13",
+      "score": 1,
+      "scores": {
+        "negotiations": 1,
+        "finance": 3,
+        "presentations": -2,
+        "travel": -2,
+        "launch": -2,
+        "documents": 3
+      }
+    }
+  ],
+  "matrix": {
+    "negotiations": {
+      "title": "🤝 Переговоры и договоры",
+      "best": [],
+      "avoid": [
+        {
+          "date": "12.10",
+          "wd": "понедельник"
+        },
+        {
+          "date": "13.10",
+          "wd": "вторник"
+        }
+      ]
+    },
+    "finance": {
+      "title": "💰 Финансы и инвестиции",
+      "best": [
+        {
+          "date": "17.10",
+          "wd": "суббота"
+        },
+        {
+          "date": "18.10",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": []
+    },
+    "presentations": {
+      "title": "🎤 Презентации и выступления",
+      "best": [],
+      "avoid": [
+        {
+          "date": "17.10",
+          "wd": "суббота"
+        },
+        {
+          "date": "18.10",
+          "wd": "воскресенье"
+        }
+      ]
+    },
+    "travel": {
+      "title": "✈️ Командировки",
+      "best": [
+        {
+          "date": "14.10",
+          "wd": "среда"
+        },
+        {
+          "date": "15.10",
+          "wd": "четверг"
+        },
+        {
+          "date": "16.10",
+          "wd": "пятница"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "17.10",
+          "wd": "суббота"
+        },
+        {
+          "date": "18.10",
+          "wd": "воскресенье"
+        }
+      ]
+    },
+    "launch": {
+      "title": "🚀 Запуск проектов",
+      "best": [
+        {
+          "date": "14.10",
+          "wd": "среда"
+        },
+        {
+          "date": "15.10",
+          "wd": "четверг"
+        },
+        {
+          "date": "16.10",
+          "wd": "пятница"
+        }
+      ],
+      "avoid": [
+        {
+          "date": "17.10",
+          "wd": "суббота"
+        },
+        {
+          "date": "18.10",
+          "wd": "воскресенье"
+        }
+      ]
+    },
+    "documents": {
+      "title": "📋 Документы и аналитика",
+      "best": [
+        {
+          "date": "17.10",
+          "wd": "суббота"
+        },
+        {
+          "date": "18.10",
+          "wd": "воскресенье"
+        }
+      ],
+      "avoid": []
+    }
+  },
+  "numerology": {
+    "week_num": 5,
+    "is_master": false,
+    "days": {
+      "пн": {
+        "date": "12.10",
+        "number": 5,
+        "master": false
+      },
+      "вт": {
+        "date": "13.10",
+        "number": 6,
+        "master": false
+      },
+      "ср": {
+        "date": "14.10",
+        "number": 7,
+        "master": false
+      },
+      "чт": {
+        "date": "15.10",
+        "number": 8,
+        "master": false
+      },
+      "пт": {
+        "date": "16.10",
+        "number": 9,
+        "master": false
+      },
+      "сб": {
+        "date": "17.10",
+        "number": 1,
+        "master": false
+      },
+      "вс": {
+        "date": "18.10",
+        "number": 2,
+        "master": false
+      }
+    }
+  }
+}
