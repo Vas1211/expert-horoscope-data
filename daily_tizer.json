@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-19",
-  "weekday": "понедельник",
+  "date": "2026-10-20",
+  "weekday": "вторник",
   "moon_sign": "Водолей",
-  "moon_degree": 0.7,
+  "moon_degree": 12.7,
   "phase": "растущая",
-  "illumination": 54.3,
-  "lunar_day": "9-й",
-  "lunar_change": "15:27",
-  "tithi_num": 8,
-  "tithi_name": "Аштами",
-  "tithi_quality": "сила и кризис одновременно",
+  "illumination": 63.8,
+  "lunar_day": "10-й",
+  "lunar_change": "15:38",
+  "tithi_num": 9,
+  "tithi_name": "Навами",
+  "tithi_quality": "трансформация через столкновение",
   "voc": "",
   "good_for": "инновации, команда",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-10-19T06:01:04.579808+03:00"
+  "generated": "2026-10-20T06:01:02.649691+03:00"
 }
