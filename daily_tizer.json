@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-24",
-  "weekday": "суббота",
+  "date": "2026-10-25",
+  "weekday": "воскресенье",
   "moon_sign": "Овен",
-  "moon_degree": 4.0,
+  "moon_degree": 17.8,
   "phase": "растущая",
-  "illumination": 94.7,
-  "lunar_day": "14-й",
-  "lunar_change": "16:07",
-  "tithi_num": 13,
-  "tithi_name": "Трайодаши",
-  "tithi_quality": "победа, удача, активность",
+  "illumination": 98.5,
+  "lunar_day": "15-й",
+  "lunar_change": "16:16",
+  "tithi_num": 14,
+  "tithi_name": "Чатурдаши",
+  "tithi_quality": "напряжение перед пиком",
   "voc": "",
   "good_for": "инициативы, старт, решительные действия",
   "tg_link": "https://t.me/expert_horoscope",
-  "generated": "2026-10-24T06:01:06.135664+03:00"
+  "generated": "2026-10-25T06:01:03.235372+03:00"
 }
